@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lychee1223/K3Competition/blob/main/2023IyatomiLabCompetition.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lychee1223/2023IyatomiLabCompetition/blob/main/2023IyatomiLabCompetition.ipynb)
 
 # 2023 Iyatomi Lab. Competition
 本リポジトリは法政大学知的情報処理研究室で開催されたKaggleコンペ 2023 Iyatomi lab Competition で提出したコードです．
@@ -21,3 +21,4 @@
 4. アンサンブル
 
 ## 結果
+![image](https://github.com/lychee1223/2023IyatomiLabCompetition/assets/110546438/eacb6b65-fbc6-40a4-a170-f516ff3fd684)
